@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_anjana_app_1.test_user" name="x_snc_anjana_app_1.test_user">c6dd0bd01b5e001042d60e9cdc4bcbd9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-08 16:57:34</sys_created_on>
+        <sys_id>86dd0bd01b5e001042d60e9cdc4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c6dd0bd01b5e001042d60e9cdc4bcbd9</sys_name>
+        <sys_package display_value="ANJANA_APP_1" source="x_snc_anjana_app_1">c38d03d01b5e001042d60e9cdc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ANJANA_APP_1">c38d03d01b5e001042d60e9cdc4bcba4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_86dd0bd01b5e001042d60e9cdc4bcbdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-08 16:57:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
