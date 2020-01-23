@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_anjana_app_1_test">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_anjana_app_1_sadsfdgafsgdhfg">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_anjana_app_1_test</name>
+        <name>x_snc_anjana_app_1_sadsfdgafsgdhfg</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-01-08 16:57:35</sys_created_on>
-        <sys_id>de4c4455b7a200104fbce2b9de11a95e</sys_id>
+        <sys_created_on>2020-01-23 21:56:13</sys_created_on>
+        <sys_id>c702e55d536200104fbcddeeff7b12fd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_anjana_app_1_test</sys_name>
+        <sys_name>x_snc_anjana_app_1_sadsfdgafsgdhfg</sys_name>
         <sys_package display_value="ANJANA_APP_1" source="x_snc_anjana_app_1">c38d03d01b5e001042d60e9cdc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="ANJANA_APP_1">c38d03d01b5e001042d60e9cdc4bcba4</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_anjana_app_1_test_NULL</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_anjana_app_1_sadsfdgafsgdhfg_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-23 15:41:33</sys_updated_on>
+        <sys_updated_on>2020-01-23 21:56:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

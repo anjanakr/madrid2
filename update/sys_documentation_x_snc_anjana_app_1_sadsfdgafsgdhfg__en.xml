@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="test" language="en" table="x_snc_anjana_app_1_test">
+    <sys_documentation element="" label="sadsfdg" language="en" table="x_snc_anjana_app_1_sadsfdgafsgdhfg">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>test</label>
+            <label>sadsfdg</label>
             <language>en</language>
-            <name>x_snc_anjana_app_1_test</name>
-            <plural>tests</plural>
+            <name>x_snc_anjana_app_1_sadsfdgafsgdhfg</name>
+            <plural>sadsfdgs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-08 16:57:35</sys_created_on>
-            <sys_id>964c4455b7a200104fbce2b9de11a962</sys_id>
+            <sys_created_on>2020-01-23 21:56:13</sys_created_on>
+            <sys_id>df02295d536200104fbcddeeff7b1203</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>test</sys_name>
+            <sys_name>sadsfdg</sys_name>
             <sys_package display_value="ANJANA_APP_1" source="x_snc_anjana_app_1">c38d03d01b5e001042d60e9cdc4bcba4</sys_package>
             <sys_policy/>
             <sys_scope display_value="ANJANA_APP_1">c38d03d01b5e001042d60e9cdc4bcba4</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_anjana_app_1_test__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_anjana_app_1_sadsfdgafsgdhfg__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-08 16:57:35</sys_updated_on>
+            <sys_updated_on>2020-01-23 21:56:13</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
